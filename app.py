@@ -2,7 +2,7 @@
 # import pandas as pd
 # import matplotlib.pyplot as plt
 # from keras.models import load_model
-import yfinance as yf #alternate
+# import yfinance as yf #alternate
 import streamlit as st
 # import h5py
 from keras.initializers import Orthogonal
